@@ -19,7 +19,7 @@ module.exports = Papaz
 
 
 <div align="center">
-    <a href="https://discord.com/users/940316505676087346" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
+    <a href="https://discord.com/users/940316505676087346" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/940316505676087346"></a>
 </div>
 
 ---
