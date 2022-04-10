@@ -1,4 +1,4 @@
-<h2>Ben Kimim</h2>
+<h2>Bu Benim</h2>
 
 ```js
 class Papaz {
