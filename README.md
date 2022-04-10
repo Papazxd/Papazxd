@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2>Ben Kimim</h2>
 
-<!--
-**Papazxd/Papazxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+class Papaz {
+    constructor(options) {
+        this.name = "Baran",
+        this.sex = "man",
+        this.length = "1.83",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "75",
+        this.age = "18",
+        this.discord.tag = "Papaz#0608"
+    };
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+module.exports = Papaz
+```
