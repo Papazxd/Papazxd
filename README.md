@@ -18,5 +18,3 @@ module.exports = Papaz
 ```
 ## Github Stats
 ![Papazxd's github stats](https://github-readme-stats.vercel.app/api?username=Papazxd&show_icons=true&theme=radical) 
-
-![Image](https://komarev.com/ghpvc/?username=Sensei-911&color=7289da)
