@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="hhttps://bestanimations.com/media/dragons/2030238755got-dragons-gif-8.gif"/>
+<img align="right" alt="GIF" src="https://bestanimations.com/media/dragons/2030238755got-dragons-gif-8.gif"/>
 
 ```js
 class Papazxd {
